@@ -64,7 +64,7 @@ namespace TheConversation
 
             string userResponse;
 
-            if (userRekkksponse == "yes")
+            if (userResponse == "yes")
             {
 
             }
